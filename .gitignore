@@ -1,5 +1,5 @@
 *.png
 *.pickle
-*.csv
+submission_01.csv
 __pycache__/
 .DS_Store
